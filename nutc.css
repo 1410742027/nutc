@@ -142,8 +142,10 @@ ul{
 }
 
 #tabs .tab01{
+    width:155px;
+    height:100px;
     padding-left:10px;
-    padding-right:5px;
+    padding-right:10px;
 }
 
 #tab01image {
@@ -151,6 +153,7 @@ ul{
 }
 
 #tabs .tab02{
+    width:155px;
     padding-left:10px;
     padding-right:5px;
 }
@@ -160,6 +163,7 @@ ul{
 }
 
 #tabs .tab03{
+    width:155px;
     padding-left:10px;
     padding-right:5px;
 }
@@ -168,9 +172,7 @@ ul{
     padding:5px 5px;
 }
 
-#tab >ul li{
-    list-style: none;
-}
+
 
 
 
